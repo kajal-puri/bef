@@ -18,13 +18,14 @@ author-pic: face.jpg # your photo
 author-name: # your name
 about-author: # about author
 email: travellingsyndrome@gmail.com # your email
-phone: (496)-169-6557 # your pnone number
+#phone: (496)-169-6557 # your pnone number
 website: https://dwayne.example.com # you website
+email: travellingsyndrome@gmail.com
 
 # Social link
 google_url:    # add url link
-twitter_url:   # add url link
-instagram_url: # add url link
+twitter_url: https://twitter.com/TravlngSyndrome
+instagram_url: https://www.instagram.com/travelingsyndrome/
 pinterest_url: # add url link
 dribbble_url:  # add url link
 facebook_url:  # add url link
