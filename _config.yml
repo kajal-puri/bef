@@ -11,7 +11,7 @@ url: "https://travellingsyndrome.com" # the base hostname & protocol for your si
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
 banner-title: Travelling Syndrome
-banner-desc: "To travel is to discover that everyone is wrong about other countries." - Aldous Huxley
+banner-desc: #"To travel is to discover that everyone is wrong about other countries." - Aldous Huxley
 
 # Author settings
 author-pic: face.jpg # your photo
