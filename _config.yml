@@ -1,4 +1,4 @@
-logo: # add logo name
+logo: TS 
 title: Travelling Syndrome - For the restless traveller in you!
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -10,8 +10,8 @@ url: "https://travellingsyndrome.com" # the base hostname & protocol for your si
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: # add banner title
-banner-desc: # add banner description
+banner-title: Travelling Syndrome
+banner-desc: "To travel is to discover that everyone is wrong about other countries." - Aldous Huxley
 
 # Author settings
 author-pic: face.jpg # your photo
